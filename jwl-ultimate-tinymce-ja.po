@@ -2,6 +2,7 @@
 # Translators:
 # redcocker <masa153@gmail.com>
 # Takuro Hishikawa <hishikawa@notnil-creative.com>
+# Nobhito Oohigashi <mail@monochrome-photo.info>
 # Fukazawa Kojiro <witchdoktor0403@gmail.com>
 msgid ""
 msgstr ""
